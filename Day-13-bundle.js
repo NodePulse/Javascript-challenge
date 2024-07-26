@@ -1,0 +1,1 @@
+(()=>{var r={521:r=>{r.exports={power:function(r,t){return Math.pow(r,t)},squareRoot:function(r){return Math.sqrt(r)},cubeRoot:function(r){return Math.cbrt(r)}}}},t={};const o=function o(e){var n=t[e];if(void 0!==n)return n.exports;var u=t[e]={exports:{}};return r[e](u,u.exports,o),u.exports}(521);console.log(o.power(2,3))})();

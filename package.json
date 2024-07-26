@@ -1,0 +1,20 @@
+{
+  "name": "30-days-javascript-challenge",
+  "version": "1.0.0",
+  "description": "This challenge is designed by Hitesh Choudhary which is totally focused on improving the knowledge and understanding the basics of javascript.",
+  "main": "Day-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "webpack": "^5.93.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
